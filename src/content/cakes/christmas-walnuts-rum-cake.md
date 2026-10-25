@@ -9,3 +9,4 @@ focus: center
 order: 100
 title_sk: Vianočná orechová torta s orechovo rumovým krémom a orechovým korpusom
 ---
+Soft fluffy walnuts sponge with vanilla and chocolate walnuts rum filling 
